@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Projects:</h2>
 
 - <b>Network Projects</b>
-  - [Enterprise Network For A Small Office](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Enterprise Network For A Small Office](https://github.com/ljulien20/Enterprise-Network-For-Small-Office/tree/main)
   - [Enterprise Network For A Scaling Company](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Active Directory Projects</b>
