@@ -4,7 +4,7 @@
 
 - <b>Network Projects</b>
   - [Enterprise Network For A Small Office](https://github.com/ljulien20/Enterprise-Network-For-Small-Office/tree/main)
-  - [Enterprise Network For A Scaling Company](https://github.com/ljulien20/Scaling-Network-Enterprise)
+  - [Enterprise Network For A Scaling Company](https://github.com/ljulien20/Scaling-Network-Enterprise-)
 - <b>Active Directory Projects</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>Cloud Projects</b>
