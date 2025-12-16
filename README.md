@@ -6,16 +6,9 @@
   - [Enterprise Network For A Small Office](https://github.com/ljulien20/Enterprise-Network-For-Small-Office/tree/main)
   - [Enterprise Network For A Scaling Company](https://github.com/ljulien20/Scaling-Network-Enterprise-)
 - <b>Active Directory Projects</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+ - [Enterprise Network For A Small Office](https://github.com/ljulien20/Enterprise-Network-For-Small-Office/tree/main)
 - <b>Cloud Projects</b>
   - [HoneyPot Project (AZURE)](https://github.com/joshmadakor1/Sentinel-Lab)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
-
 
 <h2> 🤳 Connect with me:</h2>
 
