@@ -6,7 +6,7 @@
   - [Enterprise Network For A Small Office](https://github.com/ljulien20/Enterprise-Network-For-Small-Office/tree/main)
   - [Enterprise Network For A Scaling Company](https://github.com/ljulien20/Scaling-Network-Enterprise-)
 - <b>Cloud Projects</b>
-  - [HoneyPot Project (AZURE)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [HoneyPot Project (AZURE)](https://github.com/ljulien20/HoneyPot-Azure-SIEM-)
 
 <h2> 🤳 Connect with me:</h2>
 
